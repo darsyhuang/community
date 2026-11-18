@@ -1,0 +1,20 @@
+meetings/maintainer/2026-11-17/README.md
+  s_30c7db8a1f6f95::t_24411990614678 16,45
+  s_30c7db8a1f6f95::t_2c89465ad465c1 1-15,17-44,46-50
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "04340066f58d6817140a15154f33059d3a744598",
+  "prompts": {},
+  "sessions": {
+    "s_30c7db8a1f6f95": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1ed92-353b-7941-afb9-f028891cb53e",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "darsy.hl <darsy.hl@antgroup.com>"
+    }
+  }
+}
